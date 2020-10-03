@@ -1,0 +1,47 @@
+body {
+    background: url('imagenes/fondotecBlanco.jpg');
+    background-size: cover;
+    font-size: 20px;
+    line-height: 1.6em;
+}
+
+.centrado {
+    text-align: center;
+}
+.nombre {
+    color: #EB8E38;
+}
+.descipcion {
+    color: #5E5EDB;
+}
+.carrera {
+    color: #5E5EDB;
+}
+
+.linkendlin {
+    color: #4FBCF5;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.foto {
+    height: 20rem;
+    width: 100%;
+    object-fit: contain;
+}
+.boton  {
+    background: #3B325C ;
+    color: white;
+    height: 45px;
+    width: 180px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+.boton:hover  {
+    background: #C6BFE1 ;
+    color: #3B325C;
+    
+    
+}
